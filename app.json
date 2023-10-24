@@ -25,7 +25,7 @@
         },
         "GITHUB_REPO": {
             "description": "The github repo to fetch releases from.",
-            "value": "freyacodes/Lavalink",
+            "value": "https://github.com/lavalink-devs/Lavalink",
             "required": false
         },
         "JAVA_TOOL_OPTIONS": {
